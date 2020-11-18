@@ -2,4 +2,4 @@
 Projeto de Rede Social BorAdotar
 
 Para acessar:
-https://grocre.github.io/site_BorAdotar/frontend/index
+https://grocre.github.io/site_BorAdotar/frontend/index/index.html

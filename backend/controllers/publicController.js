@@ -29,7 +29,7 @@ class PublicController{
             res
                 .append("logged", JSON.stringify(logged))
                 .append("catalog_index", JSON.stringify(pets)) //passando a seleção da tabela como parametro do header
-                .sendFile(path.resolve(__dirname, "../views/index/index.html"))
+                .sendFile(path.resolve(__dirname, "../../frontend/index/index.html"))
         }).catch(err => {
             console.log(err)
         })
